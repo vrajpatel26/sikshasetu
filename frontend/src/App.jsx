@@ -28,7 +28,7 @@ import getAllReviews from './customHooks/getAllReviews'
 /* CHATBOT IMPORT */
 import Chatbot from './components/Chatbot'
 
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://sikshasetu-p7eg.onrender.com"
 
 function App() {
 
